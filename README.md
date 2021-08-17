@@ -1,4 +1,4 @@
-# Demo
+
 echo "# Demo" >> README.md
 git init
 git add README.md
